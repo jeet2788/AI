@@ -37,11 +37,3 @@ A LangChain-based Python application that uses OpenAI's GPT-4 to analyze Softwar
   ```python
   model_kwargs={"response_format": {"type": "json_object"}}
 
-
- ![image](https://github.com/user-attachments/assets/37e1dda7-d49c-437e-91b0-b6da42b5c6dd)
-
- ![image](https://github.com/user-attachments/assets/e2a6da7e-c0e8-4ba9-88a5-229fb0d6b9bc)
- ![image](https://github.com/user-attachments/assets/0396e30a-0350-4d1f-92cf-d2c3ee0969d1)
-
-
-
