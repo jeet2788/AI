@@ -37,3 +37,8 @@ A LangChain-based Python application that uses OpenAI's GPT-4 to analyze Softwar
   ```python
   model_kwargs={"response_format": {"type": "json_object"}}
 
+OPENAI_API_KEY=your-openai-api-key
+git clone https://github.com/jeet2788/AI.git
+cd AI
+  
+
